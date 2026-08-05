@@ -44,3 +44,5 @@ Abre tu terminal y clona este proyecto usando Git:
 git clone [https://github.com/tu-usuario/ritmolatam-analytics.git](https://github.com/tu-usuario/ritmolatam-analytics.git)
 cd ritmolatam-analytics
 ``` 
+
+Visita el dashboard en [Géneros musicales](https://generos-musicales-streamlit.onrender.com/)
